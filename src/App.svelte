@@ -73,6 +73,7 @@
 	</div>
 
 	<div class="info">
+		<p><a href="https://github.com/rich-harris/svelte-gl-boxes">github.com/rich-harris/svelte-gl-boxes</a></p>
 		FPS {Math.round(fps)}
 	</div>
 </main>
